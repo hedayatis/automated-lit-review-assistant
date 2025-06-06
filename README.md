@@ -23,5 +23,5 @@ Over ten years of reviewing academic papers, I noticed how time-consuming it is 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/automated-lit-review-assistant.git
+   git clone https://github.com/hedayatis/automated-lit-review-assistant.git
    cd automated-lit-review-assistant
