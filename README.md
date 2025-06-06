@@ -14,7 +14,8 @@ Over ten years of reviewing academic papers, I noticed how time-consuming it is 
   - Clickable DOI links  
   - A “PDF Location” column (pointing to your folder)  
   - Full raw BibTeX entries  
-  - A blank “Notes” column for manual annotations  
+  - A blank “Notes” column for manual annotations
+-  Creates plots showing paper counts by **year** and **journal**, so you can visualize your literature distribution at a glance  
 - Saves hours of manual data entry and formatting, freeing you to focus on reading and synthesis
 
 ---
