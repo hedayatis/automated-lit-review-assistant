@@ -68,8 +68,10 @@ Notes (empty, for your manual comments)
 Full Reference (raw BibTeX entry)
 
 🎯 Citation
+
 If you use this tool in your own work, please cite it in APA format:
 Hedayati, S. (2025). Automated Literature Review Assistant [Computer software]. GitHub. https://github.com/hedayatis/automated-lit-review-assistant 
 
 📝 License
+
 This project is licensed under the MIT License. See LICENSE for details.
